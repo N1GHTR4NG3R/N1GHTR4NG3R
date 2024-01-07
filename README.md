@@ -11,13 +11,13 @@
 ## Github 
 
 <a href="https://github.com/N1GHTR4NG3R/N1GHTR4NG3R">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=N1GHTR4NG3R&show_icons=true&theme=shadow_green" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=N1GHTR4NG3R&show_icons=true&theme=vue-dark" />
 </a>
 
-## Repositories
+## Fav Repo
 
 <a href="https://github.com/N1GHTR4NG3R/Discmod">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1GHTR4NG3R&repo=Discmod" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1GHTR4NG3R&repo=Discmod&theme=vue-dark" />
 </a>
 
 ## Wakatime
