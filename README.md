@@ -22,7 +22,7 @@
 
 ## Wakatime
 <a href="https://wakatime.com/@N1GHTR4NG3R">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R&layout=pie&theme=vue-dark" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R&layout=compact&theme=vue-dark" />
 </a>
 
 <!--
