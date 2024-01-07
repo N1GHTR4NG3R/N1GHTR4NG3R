@@ -17,7 +17,7 @@
 ## Best Repo
 
 <a href="https://github.com/N1GHTR4NG3R/Discmod">
-  <img height=200 width=200 src="https://github-readme-stats.vercel.app/api/pin/?username=N1GHTR4NG3R&repo=Discmod&theme=vue-dark" />
+  <img height=200 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=N1GHTR4NG3R&repo=Discmod&theme=vue-dark" />
 </a>
 
 ## Wakatime
