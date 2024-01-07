@@ -4,11 +4,20 @@
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1GHTR4NG3R&layout=compact)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 ## Github 
 
 <a href="https://github.com/N1GHTR4NG3R/N1GHTR4NG3R">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=N1GHTR4NG3R&show_icons=true&theme=shadow_green" />
+</a>
+
+## Repositories
+
+<a href="https://github.com/N1GHTR4NG3R/Discmod">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1GHTR4NG3R&repo=Discmod" />
 </a>
 
 ## Wakatime
