@@ -5,16 +5,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1GHTR4NG3R&layout=compact)
 -->
+## Gitgub 
 
 <a href="https://github.com/N1GHTR4NG3R/N1GHTR4NG3R">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=N1GHTR4NG3R&show_icons=true&theme=shadow_green" />
 </a>
 
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1GHTR4NG3R&layout=compact" />
+## Wakatime
+<a href="https://wakatime.com/@N1GHTR4NG3R">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R&layout=compact" />
 </a>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **N1GHTR4NG3R/Tricky-Ricky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
