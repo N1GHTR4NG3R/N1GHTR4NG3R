@@ -8,10 +8,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-## Github 
+## Stats
 
 <a href="https://github.com/N1GHTR4NG3R/N1GHTR4NG3R">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=N1GHTR4NG3R&show_icons=true&theme=vue-dark" />
+  <img height=200 width=400 src="https://github-readme-stats.vercel.app/api?username=N1GHTR4NG3R&show_icons=true&theme=vue-dark" />
+</a>
+<a href="https://wakatime.com/@N1GHTR4NG3R">
+  <img height=400 width=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R&layout=compact&theme=vue-dark" />
 </a>
 
 ## Best Repo
@@ -20,10 +23,6 @@
   <img height=200 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=N1GHTR4NG3R&repo=Discmod&theme=vue-dark" />
 </a>
 
-## Wakatime
-<a href="https://wakatime.com/@N1GHTR4NG3R">
-  <img height=400 width=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R&layout=compact&theme=vue-dark" />
-</a>
 
 <!--
 **N1GHTR4NG3R/Tricky-Ricky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
