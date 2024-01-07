@@ -11,10 +11,10 @@
 ## Stats
 
 <a href="https://github.com/N1GHTR4NG3R/N1GHTR4NG3R">
-  <img height=400 width=350 src="https://github-readme-stats.vercel.app/api?username=N1GHTR4NG3R&show_icons=true&theme=vue-dark" />
+  <img height=400 width=400 src="https://github-readme-stats.vercel.app/api?username=N1GHTR4NG3R&show_icons=true&theme=vue-dark" />
 </a>
 <a href="https://wakatime.com/@N1GHTR4NG3R">
-  <img height=400 width=350 src="https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R&layout=compact&theme=vue-dark" />
+  <img height=400 width=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R&layout=compact&theme=vue-dark" />
 </a>
 
 ## Best Repo
