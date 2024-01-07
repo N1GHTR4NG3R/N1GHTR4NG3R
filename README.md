@@ -8,7 +8,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=N1GHTR4NG3R&show_icons=true&theme=shadow_green" />
 </a>
 <a href="https://wakatime.com/@N1GHTR4NG3R">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R&layout=compact" />
 </a>
 
 <!--
