@@ -9,9 +9,11 @@
 <a href="https://github.com/N1GHTR4NG3R/N1GHTR4NG3R">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=N1GHTR4NG3R&show_icons=true&theme=shadow_green" />
 </a>
+
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1GHTR4NG3R&layout=compact" />
 </a>
+
 <a href="https://wakatime.com/@N1GHTR4NG3R">
   <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R&layout=compact" />
 </a>
