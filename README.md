@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1GHTR4NG3R&layout=compact)
 -->
-## Gitgub 
+## Github 
 
 <a href="https://github.com/N1GHTR4NG3R/N1GHTR4NG3R">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=N1GHTR4NG3R&show_icons=true&theme=shadow_green" />
