@@ -11,18 +11,18 @@
 ## Github 
 
 <a href="https://github.com/N1GHTR4NG3R/N1GHTR4NG3R">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=N1GHTR4NG3R&show_icons=true&theme=vue-dark" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=N1GHTR4NG3R&show_icons=true&theme=vue-dark" />
 </a>
 
-## Fav Repo
+## Best Repo
 
 <a href="https://github.com/N1GHTR4NG3R/Discmod">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1GHTR4NG3R&repo=Discmod&theme=vue-dark" />
+  <img height=200 width=200 src="https://github-readme-stats.vercel.app/api/pin/?username=N1GHTR4NG3R&repo=Discmod&theme=vue-dark" />
 </a>
 
 ## Wakatime
 <a href="https://wakatime.com/@N1GHTR4NG3R">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R&layout=compact&theme=vue-dark" />
+  <img height=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=N1GHTR4NG3R&layout=compact&theme=vue-dark" />
 </a>
 
 <!--
